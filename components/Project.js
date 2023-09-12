@@ -58,11 +58,12 @@ const Project = () => {
         </div>
         <div className="flex h-[100%] w-[20%] text-[1.6vw] last-of-type:items-end last-of-type:text-[1vw]">
           <p>
-            Some, such as the southern viscacha, vicuña, and Darwin's rhea, fall
-            into the category of endangered species. Meanwhile, others, like the
-            Andean goose, horned coot, Andean gull, puna tinamou, and the three
-            flamingo species residing in Chile Andean flamingo, Chilean
-            flamingo, and James's flamingo, are classified as vulnerable.
+            Some animals, like the southern viscacha, vicuña, and Darwin rhea,
+            are at risk of disappearing. On the other hand, animals such as the
+            Andean goose, horned coot, Andean gull, puna tinamou, and three
+            types of flamingos living in Chile Andean flamingo, Chilean
+            flamingo, and James flamingo are not in immediate danger but still
+            need protection.
           </p>
         </div>
       </div>
